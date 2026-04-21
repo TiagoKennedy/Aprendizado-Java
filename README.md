@@ -13,3 +13,6 @@ Praticar lógica de programação e fortalecer os fundamentos da linguagem Java.
 ## 🛠️ Tecnologias:
 - Java
 - Eclipse
+
+- ## 👨‍💻 Autor
+Tiago Kennedy
