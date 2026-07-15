@@ -13,7 +13,7 @@ Repositório dedicado aos meus estudos em Java, contendo exercícios, fundamento
 - Exercícios práticos
 
 ## 🎯 Objetivo:
-Praticar lógica de programação e fortalecer os fundamentos da linguagem Java.
+Desenvolver uma base sólida em Java por meio de exercícios, desafios e pequenos projetos, reforçando os conteúdos estudados durante a graduação em Engenharia da Computação.
 
 ## 🛠 Tecnologias
 
