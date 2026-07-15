@@ -9,8 +9,13 @@ Repositório dedicado aos meus estudos em Java, contendo exercícios, fundamento
 - Estruturas de decisão
 - Estruturas de repetição
 - Estruturas de dados
-- Pequenos projetos
 - Exercícios práticos
+
+## 📂 Projetos
+
+- 🎯 Calculadora IMC
+- 🧮 Calculadora Terminal
+- (Novos projetos serão adicionados conforme minha evolução.)
 
 ## 🎯 Objetivo:
 Desenvolver uma base sólida em Java por meio de exercícios, desafios e pequenos projetos, reforçando os conteúdos estudados durante a graduação em Engenharia da Computação.
